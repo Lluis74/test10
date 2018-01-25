@@ -1,0 +1,8 @@
+.
+body1{
+
+  height:500px;
+weigth:400px
+color:blue;
+
+}
